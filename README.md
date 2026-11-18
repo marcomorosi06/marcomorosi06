@@ -15,12 +15,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=marcomorosi06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcomorosi06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcomorosi06&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=marcomorosi06&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/marcomorosi) 
 
